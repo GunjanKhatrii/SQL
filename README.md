@@ -72,7 +72,7 @@ If you'd like to add queries, fix bugs, or submit datasets, feel free to open a 
 
 ## 📬 Contact
 
-Created and maintained by **[Your Name]**  
-Connect on [LinkedIn](https://www.linkedin.com/in/yourprofile/) or raise an issue to get in touch.
+Created and maintained by **Gunjan Khatri**  
+Connect on [LinkedIn]((https://www.linkedin.com/in/gunjan-khatri-b6053a203/)) or raise an issue to get in touch.
 
 ---
