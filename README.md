@@ -4,20 +4,6 @@ Welcome to the **SQL Projects Repository**! This repository contains a variety o
 
 ---
 
-## 📁 Repository Structure
-
-```
-/01-basic-sql/         -- SELECT, WHERE, ORDER BY, LIMIT  
-/02-joins/             -- INNER JOIN, LEFT/RIGHT JOIN, FULL OUTER JOIN  
-/03-subqueries/        -- Nested and correlated subqueries  
-/04-aggregations/      -- GROUP BY, HAVING, COUNT, SUM, AVG  
-/05-window-functions/  -- RANK(), ROW_NUMBER(), PARTITION BY  
-/06-normalization/     -- 1NF, 2NF, 3NF examples and schemas  
-/07-advanced/          -- CTEs, indexes, transactions, views  
-/sample-datasets/      -- CSV files and SQL dumps for testing  
-```
-
----
 
 ## 💡 Highlights
 
