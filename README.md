@@ -1,6 +1,6 @@
 # 🗃️ SQL Projects Repository
 
-Welcome to the **SQL Projects Repository**! This repository contains a variety of SQL Projects. ---
+Welcome to the **SQL Projects Repository**! This repository contains a variety of SQL Projects. 
 ## 💡 Highlights
 
 - ✅ Beginner to advanced topics  
