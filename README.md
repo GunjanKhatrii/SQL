@@ -1,10 +1,6 @@
 # 🗃️ SQL Projects Repository
 
-Welcome to the **SQL Projects Repository**! This repository contains a variety of SQL scripts organized by topic and difficulty level. Whether you're a beginner learning SQL basics or an advanced user exploring window functions and performance tuning, this repo is for you.
-
----
-
-
+Welcome to the **SQL Projects Repository**! This repository contains a variety of SQL Projects. ---
 ## 💡 Highlights
 
 - ✅ Beginner to advanced topics  
